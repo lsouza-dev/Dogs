@@ -1,9 +1,11 @@
 import React from 'react'
+import './App.css'
+import Api from '../testeApiEndpoints/api/Api'
 
 const App = () => {
   return (
     <div>
-      App React
+      
     </div>
   )
 }
